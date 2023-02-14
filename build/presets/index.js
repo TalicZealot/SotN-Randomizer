@@ -16,6 +16,8 @@
       require('./warlock'),
       require('./nimble'),
       require('./expedition'),
+      require('./open-casual'),
+      require('./open-safe'),
       require('./glitch'),
       require('./scavenger'),
       require('./empty-hand'),

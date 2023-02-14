@@ -1,0 +1,16 @@
+{
+    "metadata": {
+      "id": "open-safe",
+      "name": "Open-Safe",
+      "description": "All shortcuts start open. Requires no speedrun or glitch knowledge for completion. High average complexity.",
+      "author": "TalicZealot",
+      "weight": -200
+    },
+    "inherits": "open-casual",
+    "complexityGoal": {
+      "min": 8,
+      "goals": [
+        "Holy glasses + Heart of Vlad + Tooth of Vlad + Rib of Vlad + Ring of Vlad + Eye of Vlad"
+      ]
+    }
+  }

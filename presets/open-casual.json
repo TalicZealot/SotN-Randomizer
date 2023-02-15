@@ -766,16 +766,6 @@
         "value": "0xa062be1e",
         "comment": "sb v0, 0xbe1e (v1)"
       }, {
-        "comment": "Unlock shortcut: First Castle Clock Room floor door",
-        "type": "word",
-        "value": "0xa062bdec",
-        "comment": "sb v0, 0xbdec (v1)"
-      }, {
-        "comment": "Unlock shortcut: Second Castle Clock Room floor door",
-        "type": "word",
-        "value": "0xa062bed0",
-        "comment": "sb v0, 0xbed0 (v1)"
-      }, {
         "comment": "Unlock shortcut: First Castle Demon button",
         "type": "word",
         "value": "0xa062be3c",

@@ -18,6 +18,7 @@
       require('./expedition'),
       require('./open-casual'),
       require('./open-safe'),
+      require('./open-adventure'),
       require('./glitch'),
       require('./scavenger'),
       require('./empty-hand'),

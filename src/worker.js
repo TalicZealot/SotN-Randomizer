@@ -31,6 +31,7 @@ function randomizeWorker() {
       url + 'build/presets/expedition.js',
       url + 'build/presets/open-casual.js',
       url + 'build/presets/open-safe.js',
+      url + 'build/presets/open-adventure.js',
       url + 'build/presets/glitch.js',
       url + 'build/presets/scavenger.js',
       url + 'build/presets/empty-hand.js',
